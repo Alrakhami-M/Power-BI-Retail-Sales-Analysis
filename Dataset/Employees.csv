@@ -1,0 +1,201 @@
+EmployeeID,EmployeeName,Department,JobTitle,HireDate,StoreID
+E0001,Employee 001,Management,Supervisor,2021-05-03,S008
+E0002,Employee 002,Sales,Sales Manager,2024-08-03,S028
+E0003,Employee 003,Sales,Sales Manager,2024-06-12,S006
+E0004,Employee 004,Sales,Sales Manager,2022-05-30,S021
+E0005,Employee 005,Operations,Cashier,2022-07-15,S005
+E0006,Employee 006,Sales,Sales Manager,2023-02-25,S014
+E0007,Employee 007,Sales,Sales Manager,2020-01-09,S019
+E0008,Employee 008,Operations,Sales Associate,2024-06-01,S017
+E0009,Employee 009,Operations,Sales Manager,2020-01-22,S024
+E0010,Employee 010,Sales,Supervisor,2023-10-25,S008
+E0011,Employee 011,Sales,Cashier,2023-09-27,S023
+E0012,Employee 012,Sales,Customer Agent,2020-01-08,S013
+E0013,Employee 013,Sales,Cashier,2023-08-26,S014
+E0014,Employee 014,Operations,Cashier,2024-01-25,S010
+E0015,Employee 015,Sales,Customer Agent,2021-06-22,S030
+E0016,Employee 016,Sales,Sales Associate,2021-10-10,S025
+E0017,Employee 017,Sales,Sales Manager,2021-07-25,S014
+E0018,Employee 018,Operations,Sales Associate,2018-04-25,S023
+E0019,Employee 019,Operations,Sales Associate,2021-10-13,S028
+E0020,Employee 020,Sales,Customer Agent,2022-09-18,S009
+E0021,Employee 021,Operations,Sales Associate,2021-12-04,S010
+E0022,Employee 022,Operations,Sales Manager,2021-06-30,S023
+E0023,Employee 023,Sales,Cashier,2021-07-04,S009
+E0024,Employee 024,Sales,Sales Manager,2021-10-03,S003
+E0025,Employee 025,Sales,Sales Associate,2024-07-01,S018
+E0026,Employee 026,Customer Service,Supervisor,2020-11-17,S007
+E0027,Employee 027,Sales,Supervisor,2019-07-28,S018
+E0028,Employee 028,Sales,Cashier,2018-06-13,S004
+E0029,Employee 029,Operations,Cashier,2024-02-03,S015
+E0030,Employee 030,Operations,Supervisor,2019-04-06,S008
+E0031,Employee 031,Customer Service,Supervisor,2020-12-01,S016
+E0032,Employee 032,Sales,Sales Associate,2023-04-17,S007
+E0033,Employee 033,Sales,Sales Associate,2019-04-02,S008
+E0034,Employee 034,Operations,Sales Manager,2019-08-22,S028
+E0035,Employee 035,Customer Service,Sales Manager,2022-06-12,S030
+E0036,Employee 036,Management,Supervisor,2022-05-23,S010
+E0037,Employee 037,Operations,Cashier,2019-09-14,S020
+E0038,Employee 038,Sales,Supervisor,2021-10-16,S011
+E0039,Employee 039,Sales,Customer Agent,2022-12-05,S006
+E0040,Employee 040,Management,Customer Agent,2019-07-20,S003
+E0041,Employee 041,Operations,Supervisor,2021-02-06,S027
+E0042,Employee 042,Sales,Cashier,2019-12-18,S002
+E0043,Employee 043,Sales,Customer Agent,2024-07-29,S015
+E0044,Employee 044,Operations,Sales Manager,2020-09-07,S007
+E0045,Employee 045,Sales,Sales Manager,2023-12-27,S023
+E0046,Employee 046,Customer Service,Cashier,2024-02-27,S005
+E0047,Employee 047,Operations,Supervisor,2019-03-05,S018
+E0048,Employee 048,Sales,Sales Associate,2024-08-02,S011
+E0049,Employee 049,Management,Cashier,2018-05-06,S016
+E0050,Employee 050,Management,Sales Manager,2020-09-15,S006
+E0051,Employee 051,Sales,Supervisor,2019-02-11,S004
+E0052,Employee 052,Sales,Cashier,2018-04-28,S006
+E0053,Employee 053,Customer Service,Sales Associate,2021-11-11,S018
+E0054,Employee 054,Sales,Sales Associate,2022-03-16,S020
+E0055,Employee 055,Management,Customer Agent,2022-01-26,S028
+E0056,Employee 056,Sales,Sales Manager,2020-12-02,S029
+E0057,Employee 057,Customer Service,Sales Associate,2023-07-04,S023
+E0058,Employee 058,Operations,Sales Associate,2021-06-11,S001
+E0059,Employee 059,Sales,Sales Associate,2021-09-28,S022
+E0060,Employee 060,Customer Service,Sales Manager,2021-02-03,S022
+E0061,Employee 061,Sales,Customer Agent,2019-06-14,S022
+E0062,Employee 062,Sales,Supervisor,2022-07-31,S020
+E0063,Employee 063,Sales,Cashier,2023-10-20,S021
+E0064,Employee 064,Sales,Supervisor,2020-02-17,S018
+E0065,Employee 065,Sales,Customer Agent,2021-03-30,S019
+E0066,Employee 066,Sales,Sales Associate,2024-03-30,S021
+E0067,Employee 067,Sales,Customer Agent,2019-06-12,S002
+E0068,Employee 068,Sales,Sales Manager,2020-12-12,S016
+E0069,Employee 069,Sales,Supervisor,2019-11-20,S004
+E0070,Employee 070,Customer Service,Supervisor,2020-05-22,S028
+E0071,Employee 071,Sales,Sales Associate,2021-03-19,S030
+E0072,Employee 072,Customer Service,Sales Associate,2024-06-16,S005
+E0073,Employee 073,Sales,Cashier,2018-02-01,S027
+E0074,Employee 074,Sales,Customer Agent,2020-07-04,S015
+E0075,Employee 075,Sales,Cashier,2024-01-22,S021
+E0076,Employee 076,Sales,Sales Associate,2018-08-01,S020
+E0077,Employee 077,Operations,Customer Agent,2021-07-18,S004
+E0078,Employee 078,Customer Service,Customer Agent,2019-02-01,S028
+E0079,Employee 079,Sales,Supervisor,2021-11-30,S020
+E0080,Employee 080,Sales,Sales Manager,2022-12-31,S015
+E0081,Employee 081,Customer Service,Sales Associate,2022-06-11,S019
+E0082,Employee 082,Sales,Customer Agent,2021-12-07,S030
+E0083,Employee 083,Customer Service,Customer Agent,2023-03-13,S020
+E0084,Employee 084,Operations,Cashier,2021-09-27,S020
+E0085,Employee 085,Sales,Customer Agent,2022-04-15,S027
+E0086,Employee 086,Sales,Sales Associate,2018-07-29,S021
+E0087,Employee 087,Sales,Sales Associate,2018-02-24,S005
+E0088,Employee 088,Operations,Cashier,2019-02-24,S025
+E0089,Employee 089,Management,Supervisor,2021-10-11,S027
+E0090,Employee 090,Sales,Cashier,2020-10-09,S023
+E0091,Employee 091,Management,Customer Agent,2020-07-24,S005
+E0092,Employee 092,Sales,Supervisor,2021-02-18,S016
+E0093,Employee 093,Sales,Sales Manager,2024-12-03,S002
+E0094,Employee 094,Operations,Cashier,2020-08-20,S024
+E0095,Employee 095,Management,Customer Agent,2021-02-08,S029
+E0096,Employee 096,Sales,Sales Associate,2021-07-08,S002
+E0097,Employee 097,Customer Service,Cashier,2023-06-02,S004
+E0098,Employee 098,Sales,Cashier,2023-02-18,S028
+E0099,Employee 099,Customer Service,Sales Manager,2024-11-07,S024
+E0100,Employee 100,Customer Service,Sales Manager,2022-06-13,S025
+E0101,Employee 101,Operations,Cashier,2024-09-03,S007
+E0102,Employee 102,Operations,Supervisor,2022-04-11,S020
+E0103,Employee 103,Operations,Cashier,2021-10-07,S025
+E0104,Employee 104,Management,Supervisor,2021-11-26,S003
+E0105,Employee 105,Operations,Customer Agent,2021-05-11,S009
+E0106,Employee 106,Sales,Sales Associate,2019-05-29,S009
+E0107,Employee 107,Customer Service,Supervisor,2020-07-25,S017
+E0108,Employee 108,Operations,Cashier,2022-03-25,S008
+E0109,Employee 109,Operations,Cashier,2022-03-29,S011
+E0110,Employee 110,Operations,Customer Agent,2019-02-09,S008
+E0111,Employee 111,Sales,Sales Associate,2023-08-16,S002
+E0112,Employee 112,Sales,Sales Manager,2022-12-27,S021
+E0113,Employee 113,Sales,Customer Agent,2021-09-03,S020
+E0114,Employee 114,Customer Service,Customer Agent,2021-03-01,S027
+E0115,Employee 115,Operations,Sales Manager,2021-11-25,S018
+E0116,Employee 116,Customer Service,Cashier,2022-01-25,S021
+E0117,Employee 117,Sales,Customer Agent,2020-12-29,S011
+E0118,Employee 118,Management,Cashier,2024-01-14,S012
+E0119,Employee 119,Sales,Cashier,2019-02-09,S013
+E0120,Employee 120,Sales,Cashier,2020-08-11,S030
+E0121,Employee 121,Management,Sales Manager,2020-10-12,S015
+E0122,Employee 122,Operations,Cashier,2018-09-12,S026
+E0123,Employee 123,Management,Customer Agent,2018-08-16,S010
+E0124,Employee 124,Operations,Customer Agent,2024-03-27,S021
+E0125,Employee 125,Sales,Customer Agent,2023-06-02,S009
+E0126,Employee 126,Sales,Cashier,2020-07-21,S012
+E0127,Employee 127,Customer Service,Customer Agent,2019-11-11,S026
+E0128,Employee 128,Sales,Customer Agent,2020-11-04,S021
+E0129,Employee 129,Customer Service,Sales Manager,2022-12-07,S015
+E0130,Employee 130,Sales,Cashier,2020-01-27,S013
+E0131,Employee 131,Sales,Customer Agent,2018-06-19,S024
+E0132,Employee 132,Customer Service,Customer Agent,2020-12-09,S005
+E0133,Employee 133,Management,Cashier,2022-03-10,S026
+E0134,Employee 134,Sales,Sales Manager,2021-08-24,S019
+E0135,Employee 135,Sales,Supervisor,2019-03-17,S010
+E0136,Employee 136,Sales,Cashier,2023-11-25,S021
+E0137,Employee 137,Sales,Cashier,2022-06-02,S030
+E0138,Employee 138,Customer Service,Cashier,2023-01-15,S011
+E0139,Employee 139,Sales,Customer Agent,2024-09-12,S012
+E0140,Employee 140,Sales,Sales Manager,2021-08-04,S028
+E0141,Employee 141,Customer Service,Supervisor,2022-01-19,S011
+E0142,Employee 142,Customer Service,Sales Associate,2023-05-06,S026
+E0143,Employee 143,Sales,Sales Associate,2023-06-01,S027
+E0144,Employee 144,Management,Cashier,2023-12-07,S018
+E0145,Employee 145,Sales,Supervisor,2022-12-05,S003
+E0146,Employee 146,Sales,Sales Associate,2018-05-29,S002
+E0147,Employee 147,Customer Service,Customer Agent,2020-06-14,S009
+E0148,Employee 148,Sales,Sales Manager,2022-02-22,S001
+E0149,Employee 149,Management,Sales Associate,2021-02-10,S023
+E0150,Employee 150,Operations,Sales Manager,2018-04-21,S020
+E0151,Employee 151,Management,Customer Agent,2019-11-15,S014
+E0152,Employee 152,Sales,Customer Agent,2020-02-27,S025
+E0153,Employee 153,Sales,Supervisor,2018-04-03,S005
+E0154,Employee 154,Customer Service,Supervisor,2023-05-02,S016
+E0155,Employee 155,Customer Service,Sales Associate,2020-08-23,S011
+E0156,Employee 156,Customer Service,Supervisor,2023-07-15,S001
+E0157,Employee 157,Sales,Sales Associate,2024-02-02,S015
+E0158,Employee 158,Operations,Supervisor,2024-03-08,S005
+E0159,Employee 159,Sales,Customer Agent,2024-05-09,S002
+E0160,Employee 160,Sales,Supervisor,2021-06-26,S007
+E0161,Employee 161,Operations,Sales Associate,2019-09-12,S006
+E0162,Employee 162,Customer Service,Sales Associate,2018-08-03,S019
+E0163,Employee 163,Operations,Supervisor,2022-05-14,S024
+E0164,Employee 164,Sales,Sales Manager,2018-11-20,S015
+E0165,Employee 165,Customer Service,Sales Manager,2019-09-09,S020
+E0166,Employee 166,Management,Sales Manager,2019-09-17,S004
+E0167,Employee 167,Sales,Sales Associate,2019-11-30,S024
+E0168,Employee 168,Customer Service,Sales Associate,2020-08-08,S016
+E0169,Employee 169,Customer Service,Sales Associate,2020-04-26,S013
+E0170,Employee 170,Sales,Supervisor,2021-09-07,S027
+E0171,Employee 171,Customer Service,Sales Associate,2024-09-12,S010
+E0172,Employee 172,Management,Supervisor,2022-07-09,S014
+E0173,Employee 173,Customer Service,Sales Manager,2022-09-24,S028
+E0174,Employee 174,Sales,Customer Agent,2019-02-20,S005
+E0175,Employee 175,Operations,Sales Manager,2018-10-19,S016
+E0176,Employee 176,Customer Service,Supervisor,2019-04-28,S018
+E0177,Employee 177,Operations,Sales Associate,2023-12-08,S022
+E0178,Employee 178,Sales,Customer Agent,2019-03-18,S028
+E0179,Employee 179,Sales,Supervisor,2024-11-18,S011
+E0180,Employee 180,Customer Service,Cashier,2023-04-13,S004
+E0181,Employee 181,Sales,Cashier,2023-10-20,S012
+E0182,Employee 182,Management,Sales Associate,2020-02-11,S005
+E0183,Employee 183,Sales,Supervisor,2019-02-04,S022
+E0184,Employee 184,Customer Service,Supervisor,2019-03-02,S018
+E0185,Employee 185,Sales,Cashier,2024-01-01,S023
+E0186,Employee 186,Customer Service,Customer Agent,2021-01-07,S011
+E0187,Employee 187,Customer Service,Customer Agent,2020-11-11,S029
+E0188,Employee 188,Sales,Sales Manager,2019-09-25,S027
+E0189,Employee 189,Sales,Sales Associate,2020-06-29,S028
+E0190,Employee 190,Management,Sales Associate,2020-08-01,S022
+E0191,Employee 191,Customer Service,Supervisor,2023-03-30,S006
+E0192,Employee 192,Operations,Customer Agent,2023-10-07,S005
+E0193,Employee 193,Sales,Sales Associate,2021-04-08,S029
+E0194,Employee 194,Management,Supervisor,2020-05-03,S027
+E0195,Employee 195,Customer Service,Supervisor,2021-02-28,S027
+E0196,Employee 196,Sales,Cashier,2019-03-23,S020
+E0197,Employee 197,Sales,Cashier,2018-06-25,S026
+E0198,Employee 198,Sales,Supervisor,2019-08-17,S015
+E0199,Employee 199,Customer Service,Supervisor,2018-03-04,S005
+E0200,Employee 200,Customer Service,Sales Manager,2018-03-29,S008

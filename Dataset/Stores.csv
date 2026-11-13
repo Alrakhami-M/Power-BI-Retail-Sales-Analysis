@@ -1,0 +1,31 @@
+StoreID,StoreName,Region,City,StoreType,OpeningDate
+S001,Store 01,North,Irbid,Street,2021-09-13
+S002,Store 02,South,Ma'an,Mall,2022-06-30
+S003,Store 03,East,Mafraq,Street,2019-06-22
+S004,Store 04,West,Salt,Online Hub,2019-01-25
+S005,Store 05,Central,Amman,Outlet,2022-04-01
+S006,Store 06,North,Zarqa,Online Hub,2022-07-11
+S007,Store 07,South,Ma'an,Outlet,2021-02-18
+S008,Store 08,East,Mafraq,Online Hub,2019-06-01
+S009,Store 09,West,Jerash,Street,2021-06-12
+S010,Store 10,Central,Madaba,Mall,2022-03-13
+S011,Store 11,North,Zarqa,Online Hub,2020-01-25
+S012,Store 12,South,Karak,Outlet,2020-07-03
+S013,Store 13,East,Azraq,Online Hub,2022-09-24
+S014,Store 14,West,Salt,Outlet,2020-01-23
+S015,Store 15,Central,Amman,Street,2019-06-30
+S016,Store 16,North,Amman,Mall,2022-02-20
+S017,Store 17,South,Ma'an,Street,2019-02-12
+S018,Store 18,East,Ruwaished,Outlet,2021-03-03
+S019,Store 19,West,Salt,Online Hub,2021-11-05
+S020,Store 20,Central,Madaba,Online Hub,2019-04-28
+S021,Store 21,North,Zarqa,Outlet,2022-04-07
+S022,Store 22,South,Aqaba,Street,2023-02-09
+S023,Store 23,East,Ruwaished,Mall,2023-11-12
+S024,Store 24,West,Jerash,Street,2020-04-30
+S025,Store 25,Central,Madaba,Online Hub,2020-08-20
+S026,Store 26,North,Zarqa,Outlet,2022-02-02
+S027,Store 27,South,Aqaba,Outlet,2021-12-29
+S028,Store 28,East,Mafraq,Online Hub,2022-01-17
+S029,Store 29,West,Salt,Mall,2020-07-28
+S030,Store 30,Central,Amman,Online Hub,2019-04-13

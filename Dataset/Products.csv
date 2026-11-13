@@ -1,0 +1,501 @@
+ProductID,ProductName,Category,Subcategory,Brand,UnitCost,UnitPrice,LaunchDate,ProductStatus
+P0001,Luma Accessories 0001,Electronics,Accessories,Luma,667.87,1079.33,2022-05-20,Active
+P0002,Luma Games 0002,Toys,Games,Luma,406.62,534.08,2023-11-27,Active
+P0003,Apex Fiction 0003,Books,Fiction,Apex,513.25,708.98,2024-08-26,Active
+P0004,Nova Men 0004,Clothing,Men,Nova,699.44,936.12,2023-11-08,Active
+P0005,Apex Skincare 0005,Beauty,Skincare,Apex,565.84,721.79,2023-02-10,Active
+P0006,Vertex Kids 0006,Clothing,Kids,Vertex,632.7,1345.16,2022-07-16,Active
+P0007,Prime Haircare 0007,Beauty,Haircare,Prime,260.96,492.8,2020-11-08,Active
+P0008,Luma Fiction 0008,Books,Fiction,Luma,675.82,1327.78,2021-06-30,Active
+P0009,Nova Educational 0009,Toys,Educational,Nova,647.66,767.11,2024-03-25,Active
+P0010,Prime Appliances 0010,Home & Kitchen,Appliances,Prime,384.92,473.09,2019-08-20,Active
+P0011,Everest Fragrance 0011,Beauty,Fragrance,Everest,689.2,943.56,2023-12-13,Active
+P0012,Apex Team Sports 0012,Sports,Team Sports,Apex,111.35,159.57,2023-11-13,Active
+P0013,Vertex Bedroom 0013,Furniture,Bedroom,Vertex,101.65,221.66,2019-05-06,Active
+P0014,Nova Living Room 0014,Furniture,Living Room,Nova,289.26,598.89,2020-06-13,Active
+P0015,Prime Outdoor 0015,Sports,Outdoor,Prime,776.51,1301.55,2020-11-09,Active
+P0016,Apex Bedroom 0016,Furniture,Bedroom,Apex,12.88,27.54,2024-06-22,Active
+P0017,Zenith Appliances 0017,Home & Kitchen,Appliances,Zenith,42.5,55.43,2021-08-19,Discontinued
+P0018,Everest Technology 0018,Books,Technology,Everest,795.32,957.98,2023-08-27,Active
+P0019,Everest Appliances 0019,Home & Kitchen,Appliances,Everest,427.37,673.65,2022-08-08,Active
+P0020,Nova Women 0020,Clothing,Women,Nova,756.78,1007.18,2019-06-27,Active
+P0021,Prime Fitness 0021,Sports,Fitness,Prime,117.76,201.73,2022-12-31,Active
+P0022,Zenith Bedroom 0022,Furniture,Bedroom,Zenith,489.42,751.87,2022-10-23,Discontinued
+P0023,Zenith Men 0023,Clothing,Men,Zenith,411.64,612.5,2024-03-22,Active
+P0024,Apex Fiction 0024,Books,Fiction,Apex,481.49,949.32,2024-07-09,Active
+P0025,Prime Phones 0025,Electronics,Phones,Prime,130.75,283.77,2022-07-10,Active
+P0026,Vertex Fiction 0026,Books,Fiction,Vertex,219.29,370.15,2024-04-09,Active
+P0027,Prime Fitness 0027,Sports,Fitness,Prime,163.01,315.66,2019-11-02,Active
+P0028,UrbanX Outdoor 0028,Sports,Outdoor,UrbanX,495.66,789.47,2022-09-05,Active
+P0029,Prime Business 0029,Books,Business,Prime,409.62,684.59,2022-06-18,Active
+P0030,Nova Business 0030,Books,Business,Nova,180.96,276.6,2020-01-12,Active
+P0031,Orion Team Sports 0031,Sports,Team Sports,Orion,794.35,1270.01,2022-03-25,Active
+P0032,Orion Fiction 0032,Books,Fiction,Orion,614.72,914.27,2023-01-29,Active
+P0033,Prime Games 0033,Toys,Games,Prime,195.11,281.65,2021-06-28,Active
+P0034,Zenith Kids 0034,Clothing,Kids,Zenith,465.53,667.54,2022-12-29,Discontinued
+P0035,Vertex Educational 0035,Toys,Educational,Vertex,648.97,1350.03,2023-06-20,Active
+P0036,Pulse Home Decor 0036,Home & Kitchen,Home Decor,Pulse,658.73,852.5,2022-07-13,Active
+P0037,Zenith Laptops 0037,Electronics,Laptops,Zenith,420.97,808.04,2021-05-21,Active
+P0038,Vertex Team Sports 0038,Sports,Team Sports,Vertex,745.31,1099.65,2020-08-04,Active
+P0039,Prime Haircare 0039,Beauty,Haircare,Prime,422.57,820.31,2022-12-18,Active
+P0040,UrbanX Technology 0040,Books,Technology,UrbanX,633.7,1268.41,2024-05-25,Active
+P0041,Zenith Women 0041,Clothing,Women,Zenith,644.37,1133.25,2021-10-08,Discontinued
+P0042,Prime Bedroom 0042,Furniture,Bedroom,Prime,334.24,455.13,2022-01-05,Active
+P0043,Nova Outdoor 0043,Sports,Outdoor,Nova,238.37,342.21,2024-06-20,Active
+P0044,Nova Games 0044,Toys,Games,Nova,389.09,565.33,2020-10-12,Active
+P0045,Nova Outdoor 0045,Toys,Outdoor,Nova,203.87,247.69,2023-11-04,Active
+P0046,Apex Appliances 0046,Home & Kitchen,Appliances,Apex,652.8,1371.65,2020-07-12,Active
+P0047,Zenith Kids 0047,Clothing,Kids,Zenith,76.58,160.29,2020-07-18,Active
+P0048,Orion Business 0048,Books,Business,Orion,616.77,1108.06,2020-09-07,Active
+P0049,Luma Games 0049,Toys,Games,Luma,101.56,160.8,2019-04-26,Discontinued
+P0050,Orion Bedroom 0050,Furniture,Bedroom,Orion,786.63,935.42,2021-10-06,Active
+P0051,UrbanX Outdoor 0051,Sports,Outdoor,UrbanX,26.13,39.1,2021-02-13,Active
+P0052,Orion Haircare 0052,Beauty,Haircare,Orion,399.46,557.3,2020-05-20,Active
+P0053,Everest Appliances 0053,Home & Kitchen,Appliances,Everest,670.4,1339.63,2023-07-15,Active
+P0054,Nova Office 0054,Furniture,Office,Nova,519.87,1102.04,2022-02-07,Active
+P0055,Pulse Laptops 0055,Electronics,Laptops,Pulse,25.54,33.99,2020-03-04,Active
+P0056,Everest Appliances 0056,Home & Kitchen,Appliances,Everest,652.68,1120.96,2020-02-25,Active
+P0057,Prime Haircare 0057,Beauty,Haircare,Prime,162.45,210.67,2023-11-08,Active
+P0058,Apex Technology 0058,Books,Technology,Apex,682.25,1296.67,2020-08-16,Active
+P0059,Apex Haircare 0059,Beauty,Haircare,Apex,121.64,189.03,2021-05-14,Active
+P0060,Everest Women 0060,Clothing,Women,Everest,734.08,1239.68,2019-09-20,Active
+P0061,Vertex Laptops 0061,Electronics,Laptops,Vertex,320.86,476.46,2023-10-28,Active
+P0062,Nova Outdoor 0062,Toys,Outdoor,Nova,18.0,32.11,2021-02-21,Active
+P0063,Luma Phones 0063,Electronics,Phones,Luma,136.29,232.29,2023-03-24,Active
+P0064,Orion Home Decor 0064,Home & Kitchen,Home Decor,Orion,248.49,342.7,2021-06-08,Discontinued
+P0065,Vertex Team Sports 0065,Sports,Team Sports,Vertex,289.62,545.37,2023-10-22,Active
+P0066,Everest Outdoor 0066,Toys,Outdoor,Everest,29.33,61.69,2021-06-03,Active
+P0067,Luma Cookware 0067,Home & Kitchen,Cookware,Luma,435.58,612.02,2024-05-15,Active
+P0068,UrbanX Haircare 0068,Beauty,Haircare,UrbanX,588.01,735.35,2023-05-07,Active
+P0069,UrbanX Games 0069,Toys,Games,UrbanX,697.96,1261.35,2021-11-19,Active
+P0070,Nova Games 0070,Toys,Games,Nova,283.0,370.13,2021-11-24,Active
+P0071,Prime Outdoor 0071,Toys,Outdoor,Prime,729.0,886.88,2022-09-20,Active
+P0072,Pulse Fiction 0072,Books,Fiction,Pulse,773.41,1437.1,2023-02-26,Discontinued
+P0073,Prime Fragrance 0073,Beauty,Fragrance,Prime,256.22,336.18,2023-03-28,Active
+P0074,Apex Outdoor 0074,Sports,Outdoor,Apex,41.26,77.41,2019-03-14,Active
+P0075,Nova Phones 0075,Electronics,Phones,Nova,96.86,179.05,2020-08-03,Active
+P0076,Pulse Laptops 0076,Electronics,Laptops,Pulse,331.12,651.16,2021-08-14,Active
+P0077,Luma Team Sports 0077,Sports,Team Sports,Luma,580.62,1043.2,2022-03-21,Discontinued
+P0078,Pulse Women 0078,Clothing,Women,Pulse,245.45,484.06,2019-07-16,Active
+P0079,Pulse Outdoor 0079,Sports,Outdoor,Pulse,593.58,1199.55,2020-03-13,Active
+P0080,Everest Home Decor 0080,Home & Kitchen,Home Decor,Everest,738.13,1426.18,2021-10-09,Active
+P0081,Vertex Phones 0081,Electronics,Phones,Vertex,173.98,214.2,2021-09-06,Active
+P0082,Orion Educational 0082,Toys,Educational,Orion,469.12,874.43,2022-09-09,Active
+P0083,Apex Accessories 0083,Electronics,Accessories,Apex,643.22,1145.02,2019-06-02,Active
+P0084,Pulse Laptops 0084,Electronics,Laptops,Pulse,283.53,509.74,2023-10-11,Active
+P0085,Pulse Fiction 0085,Books,Fiction,Pulse,131.48,158.08,2020-10-21,Active
+P0086,Nova Skincare 0086,Beauty,Skincare,Nova,399.96,728.56,2022-04-19,Active
+P0087,Apex Bedroom 0087,Furniture,Bedroom,Apex,38.88,50.28,2024-09-05,Active
+P0088,UrbanX Women 0088,Clothing,Women,UrbanX,626.7,1182.84,2021-04-11,Active
+P0089,Nova Living Room 0089,Furniture,Living Room,Nova,755.82,1380.66,2020-11-17,Active
+P0090,Zenith Educational 0090,Toys,Educational,Zenith,19.18,34.78,2020-08-02,Active
+P0091,Apex Technology 0091,Books,Technology,Apex,178.48,380.76,2022-11-29,Active
+P0092,Apex Cookware 0092,Home & Kitchen,Cookware,Apex,631.68,1324.73,2024-09-27,Active
+P0093,Zenith Fiction 0093,Books,Fiction,Zenith,677.92,1244.63,2022-05-10,Discontinued
+P0094,Vertex Accessories 0094,Electronics,Accessories,Vertex,506.69,655.34,2020-03-10,Active
+P0095,Orion Accessories 0095,Electronics,Accessories,Orion,421.17,905.39,2024-09-02,Active
+P0096,Orion Educational 0096,Toys,Educational,Orion,687.19,1348.49,2019-04-03,Active
+P0097,Everest Laptops 0097,Electronics,Laptops,Everest,729.06,1107.43,2021-06-17,Active
+P0098,UrbanX Educational 0098,Toys,Educational,UrbanX,185.91,219.73,2019-10-03,Active
+P0099,UrbanX Business 0099,Books,Business,UrbanX,53.75,70.84,2019-03-14,Discontinued
+P0100,Pulse Outdoor 0100,Sports,Outdoor,Pulse,399.12,803.93,2024-12-24,Active
+P0101,Everest Skincare 0101,Beauty,Skincare,Everest,626.19,949.48,2019-07-06,Active
+P0102,Orion Phones 0102,Electronics,Phones,Orion,793.77,1176.65,2024-06-07,Active
+P0103,Everest Phones 0103,Electronics,Phones,Everest,78.54,149.4,2022-04-08,Active
+P0104,Orion Kids 0104,Clothing,Kids,Orion,146.61,234.88,2020-12-02,Active
+P0105,Luma Technology 0105,Books,Technology,Luma,750.21,1465.4,2024-03-04,Active
+P0106,Zenith Kids 0106,Clothing,Kids,Zenith,775.96,1536.69,2019-01-09,Active
+P0107,Pulse Educational 0107,Toys,Educational,Pulse,180.66,223.6,2023-02-20,Active
+P0108,Orion Laptops 0108,Electronics,Laptops,Orion,277.85,603.37,2023-08-08,Active
+P0109,Nova Bedroom 0109,Furniture,Bedroom,Nova,776.82,1312.5,2021-03-08,Active
+P0110,Apex Cookware 0110,Home & Kitchen,Cookware,Apex,72.05,133.95,2020-10-20,Active
+P0111,Vertex Haircare 0111,Beauty,Haircare,Vertex,680.93,1270.24,2019-01-21,Active
+P0112,Everest Skincare 0112,Beauty,Skincare,Everest,596.21,1107.83,2019-02-18,Active
+P0113,Pulse Educational 0113,Toys,Educational,Unknown,351.01,602.94,2019-04-07,Active
+P0114,Zenith Outdoor 0114,Sports,Outdoor,Zenith,499.39,780.09,2021-09-26,Active
+P0115,Pulse Phones 0115,Electronics,Phones,Pulse,722.2,1113.69,2022-03-08,Active
+P0116,UrbanX Fitness 0116,Sports,Fitness,UrbanX,494.08,768.2,2021-07-17,Active
+P0117,Orion Home Decor 0117,Home & Kitchen,Home Decor,Orion,610.3,1309.71,2023-03-19,Active
+P0118,Orion Games 0118,Toys,Games,Orion,731.68,1514.6,2021-03-03,Active
+P0119,Vertex Home Decor 0119,Home & Kitchen,Home Decor,Vertex,586.27,989.58,2023-09-27,Active
+P0120,Luma Fiction 0120,Books,Fiction,Luma,338.81,625.95,2022-12-01,Active
+P0121,Everest Appliances 0121,Home & Kitchen,Appliances,Everest,408.05,620.58,2024-08-14,Active
+P0122,Nova Kids 0122,Clothing,Kids,Nova,210.38,383.36,2023-05-09,Active
+P0123,Vertex Technology 0123,Books,Technology,Vertex,269.15,413.06,2019-10-08,Active
+P0124,Vertex Laptops 0124,Electronics,Laptops,Vertex,234.76,443.74,2022-05-09,Active
+P0125,Nova Fragrance 0125,Beauty,Fragrance,Nova,101.53,149.99,2022-12-10,Active
+P0126,Apex Games 0126,Toys,Games,Apex,493.74,576.3,2019-01-31,Active
+P0127,Orion Laptops 0127,Electronics,Laptops,Orion,292.12,502.91,2019-04-07,Active
+P0128,Prime Haircare 0128,Beauty,Haircare,Prime,672.44,1050.7,2019-02-19,Active
+P0129,Zenith Office 0129,Furniture,Office,Zenith,63.19,75.45,2020-01-11,Active
+P0130,Orion Haircare 0130,Beauty,Haircare,Orion,180.72,209.2,2024-04-15,Active
+P0131,UrbanX Kids 0131,Clothing,Kids,UrbanX,125.12,217.97,2020-06-09,Active
+P0132,Pulse Business 0132,Books,Business,Pulse,220.85,423.45,2020-02-13,Active
+P0133,UrbanX Fitness 0133,Sports,Fitness,UrbanX,8.34,12.17,2021-09-03,Active
+P0134,Pulse Games 0134,Toys,Games,Pulse,539.19,740.0,2021-05-21,Active
+P0135,Vertex Accessories 0135,Electronics,Accessories,Vertex,393.92,517.54,2024-12-15,Active
+P0136,Vertex Games 0136,Toys,Games,Vertex,754.95,995.9,2019-08-15,Discontinued
+P0137,Everest Laptops 0137,Electronics,Laptops,Everest,91.64,155.62,2024-01-16,Active
+P0138,Zenith Appliances 0138,Home & Kitchen,Appliances,Zenith,44.57,58.05,2020-05-17,Active
+P0139,Luma Men 0139,Clothing,Men,Luma,149.35,288.37,2020-11-09,Active
+P0140,Apex Phones 0140,Electronics,Phones,Apex,249.15,434.28,2021-11-28,Active
+P0141,Vertex Living Room 0141,Furniture,Living Room,Vertex,790.83,1138.33,2024-11-06,Active
+P0142,Apex Men 0142,Clothing,Men,Apex,38.27,47.93,2020-05-30,Active
+P0143,Nova Living Room 0143,Furniture,Living Room,Nova,641.1,1400.38,2021-01-23,Active
+P0144,Everest Haircare 0144,Beauty,Haircare,Everest,330.83,684.71,2022-12-14,Active
+P0145,Everest Phones 0145,Electronics,Phones,Everest,442.12,933.55,2023-01-07,Discontinued
+P0146,UrbanX Phones 0146,Electronics,Phones,UrbanX,326.33,668.2,2021-03-15,Active
+P0147,UrbanX Haircare 0147,Beauty,Haircare,UrbanX,271.84,368.19,2019-10-15,Discontinued
+P0148,Zenith Women 0148,Clothing,Women,Unknown,701.13,1534.96,2023-09-23,Active
+P0149,Vertex Men 0149,Clothing,Men,Vertex,64.3,124.84,2024-05-25,Discontinued
+P0150,Luma Cookware 0150,Home & Kitchen,Cookware,Luma,448.43,536.98,2022-08-11,Active
+P0151,Prime Skincare 0151,Beauty,Skincare,Prime,464.77,641.46,2024-03-26,Active
+P0152,Vertex Outdoor 0152,Toys,Outdoor,Vertex,198.8,241.93,2020-07-10,Active
+P0153,Vertex Office 0153,Furniture,Office,Vertex,216.9,336.99,2024-03-07,Active
+P0154,Luma Kids 0154,Clothing,Kids,Luma,261.49,432.17,2023-11-06,Active
+P0155,Everest Team Sports 0155,Sports,Team Sports,Everest,634.68,905.78,2024-05-30,Active
+P0156,Nova Home Decor 0156,Home & Kitchen,Home Decor,Nova,65.55,122.47,2024-08-03,Active
+P0157,Vertex Outdoor 0157,Sports,Outdoor,Vertex,113.08,201.68,2021-01-26,Active
+P0158,Apex Technology 0158,Books,Technology,Apex,193.19,345.84,2019-09-20,Active
+P0159,UrbanX Office 0159,Furniture,Office,UrbanX,452.84,866.72,2023-06-29,Active
+P0160,UrbanX Fitness 0160,Sports,Fitness,UrbanX,125.36,154.06,2023-01-06,Active
+P0161,Prime Women 0161,Clothing,Women,Prime,250.11,377.57,2022-11-19,Active
+P0162,Zenith Appliances 0162,Home & Kitchen,Appliances,Zenith,418.73,485.63,2022-10-13,Active
+P0163,Everest Fitness 0163,Sports,Fitness,Everest,195.09,385.9,2019-03-31,Active
+P0164,Vertex Office 0164,Furniture,Office,Vertex,127.56,260.79,2023-01-06,Active
+P0165,Nova Outdoor 0165,Sports,Outdoor,Nova,602.96,1109.47,2021-11-26,Active
+P0166,Pulse Appliances 0166,Home & Kitchen,Appliances,Pulse,703.21,1321.35,2019-03-10,Active
+P0167,Nova Laptops 0167,Electronics,Laptops,Nova,102.08,176.28,2024-02-17,Active
+P0168,Pulse Outdoor 0168,Sports,Outdoor,Pulse,11.03,22.83,2019-03-03,Active
+P0169,Orion Phones 0169,Electronics,Phones,Orion,685.85,1175.37,2020-05-26,Active
+P0170,Orion Home Decor 0170,Home & Kitchen,Home Decor,Orion,403.78,526.83,2020-10-07,Active
+P0171,Everest Educational 0171,Toys,Educational,Everest,705.29,1325.37,2023-09-11,Active
+P0172,Everest Kids 0172,Clothing,Kids,Everest,677.06,801.4,2019-06-25,Active
+P0173,Everest Outdoor 0173,Toys,Outdoor,Everest,285.18,450.68,2021-04-21,Active
+P0174,UrbanX Business 0174,Books,Business,UrbanX,789.35,1726.48,2021-03-12,Active
+P0175,UrbanX Cookware 0175,Home & Kitchen,Cookware,UrbanX,377.12,776.59,2021-06-27,Active
+P0176,Prime Technology 0176,Books,Technology,Prime,749.82,1647.43,2024-03-25,Active
+P0177,Zenith Men 0177,Clothing,Men,Zenith,556.47,779.05,2020-12-13,Active
+P0178,Apex Educational 0178,Toys,Educational,Apex,549.6,760.37,2021-02-15,Active
+P0179,Orion Fitness 0179,Sports,Fitness,Orion,32.49,51.57,2021-06-14,Active
+P0180,UrbanX Skincare 0180,Beauty,Skincare,UrbanX,29.59,53.41,2021-05-10,Active
+P0181,Prime Men 0181,Clothing,Men,Prime,317.42,635.71,2024-09-20,Active
+P0182,UrbanX Business 0182,Books,Business,UrbanX,703.25,1190.39,2020-08-08,Active
+P0183,Zenith Outdoor 0183,Sports,Outdoor,Zenith,430.78,731.5,2019-09-06,Active
+P0184,Prime Phones 0184,Electronics,Phones,Prime,111.77,191.91,2021-07-12,Active
+P0185,Prime Cookware 0185,Home & Kitchen,Cookware,Prime,531.16,812.41,2019-07-03,Active
+P0186,Luma Skincare 0186,Beauty,Skincare,Luma,320.92,627.0,2023-10-13,Active
+P0187,Nova Fragrance 0187,Beauty,Fragrance,Nova,213.56,397.7,2024-05-07,Active
+P0188,UrbanX Bedroom 0188,Furniture,Bedroom,UrbanX,16.61,26.56,2023-12-25,Active
+P0189,Zenith Business 0189,Books,Business,Zenith,121.68,239.36,2023-10-29,Active
+P0190,Prime Business 0190,Books,Business,Prime,675.6,1479.4,2021-07-11,Active
+P0191,Vertex Bedroom 0191,Furniture,Bedroom,Vertex,570.29,1161.57,2023-03-10,Active
+P0192,Luma Men 0192,Clothing,Men,Luma,93.26,203.15,2021-05-19,Active
+P0193,Luma Appliances 0193,Home & Kitchen,Appliances,Luma,210.24,350.49,2024-02-15,Active
+P0194,Pulse Educational 0194,Toys,Educational,Pulse,543.92,959.93,2020-03-03,Active
+P0195,Everest Educational 0195,Toys,Educational,Everest,33.96,59.96,2019-11-05,Active
+P0196,Orion Bedroom 0196,Furniture,Bedroom,Orion,185.65,288.39,2024-11-06,Active
+P0197,Prime Living Room 0197,Furniture,Living Room,Unknown,348.88,760.19,2021-02-28,Active
+P0198,Orion Fiction 0198,Books,Fiction,Orion,284.52,443.09,2020-11-12,Active
+P0199,Nova Accessories 0199,Electronics,Accessories,Nova,183.91,396.98,2023-01-03,Discontinued
+P0200,UrbanX Office 0200,Furniture,Office,Unknown,612.91,1181.26,2021-01-20,Active
+P0201,Luma Fiction 0201,Books,Fiction,Luma,604.91,853.75,2023-06-25,Active
+P0202,Nova Phones 0202,Electronics,Phones,Nova,786.54,927.53,2021-07-30,Active
+P0203,Orion Office 0203,Furniture,Office,Orion,676.61,1472.87,2023-09-13,Active
+P0204,Nova Bedroom 0204,Furniture,Bedroom,Nova,321.19,617.01,2019-06-26,Active
+P0205,Luma Games 0205,Toys,Games,Luma,268.73,476.75,2023-05-13,Active
+P0206,Apex Home Decor 0206,Home & Kitchen,Home Decor,Apex,608.52,875.77,2020-12-20,Active
+P0207,Pulse Team Sports 0207,Sports,Team Sports,Pulse,519.17,1015.36,2021-07-15,Active
+P0208,Apex Men 0208,Clothing,Men,Apex,213.9,363.16,2024-07-30,Active
+P0209,Nova Outdoor 0209,Toys,Outdoor,Nova,310.63,616.08,2021-11-22,Active
+P0210,Vertex Business 0210,Books,Business,Vertex,73.29,103.26,2019-06-13,Active
+P0211,Vertex Accessories 0211,Electronics,Accessories,Vertex,389.23,751.41,2021-09-30,Active
+P0212,Apex Fragrance 0212,Beauty,Fragrance,Apex,101.7,127.59,2020-06-10,Active
+P0213,UrbanX Laptops 0213,Electronics,Laptops,UrbanX,230.3,454.85,2021-11-05,Active
+P0214,Everest Team Sports 0214,Sports,Team Sports,Everest,740.55,1004.09,2020-04-21,Active
+P0215,Prime Cookware 0215,Home & Kitchen,Cookware,Prime,198.01,355.59,2022-11-09,Active
+P0216,Orion Phones 0216,Electronics,Phones,Orion,555.03,1127.37,2020-05-29,Active
+P0217,Prime Skincare 0217,Beauty,Skincare,Prime,41.58,90.68,2021-10-16,Active
+P0218,Prime Educational 0218,Toys,Educational,Prime,42.29,66.11,2024-09-21,Active
+P0219,Luma Office 0219,Furniture,Office,Luma,186.56,376.39,2022-10-28,Active
+P0220,Zenith Business 0220,Books,Business,Zenith,791.4,1134.81,2023-04-01,Active
+P0221,Pulse Outdoor 0221,Toys,Outdoor,Pulse,179.44,220.63,2023-08-19,Active
+P0222,Luma Technology 0222,Books,Technology,Luma,544.25,1092.93,2024-07-07,Active
+P0223,Orion Skincare 0223,Beauty,Skincare,Orion,733.29,1443.22,2024-04-24,Active
+P0224,Apex Technology 0224,Books,Technology,Apex,77.08,169.39,2024-02-22,Active
+P0225,Everest Accessories 0225,Electronics,Accessories,Everest,721.88,860.21,2021-01-16,Active
+P0226,UrbanX Kids 0226,Clothing,Kids,UrbanX,526.5,1074.39,2022-09-30,Active
+P0227,Nova Fiction 0227,Books,Fiction,Nova,64.21,135.15,2023-11-27,Active
+P0228,UrbanX Outdoor 0228,Sports,Outdoor,UrbanX,290.27,633.7,2022-05-10,Active
+P0229,Everest Office 0229,Furniture,Office,Everest,779.94,1444.07,2019-10-06,Active
+P0230,Everest Office 0230,Furniture,Office,Everest,711.1,1218.31,2022-01-19,Active
+P0231,Orion Appliances 0231,Home & Kitchen,Appliances,Orion,405.49,706.59,2020-04-18,Active
+P0232,Luma Fiction 0232,Books,Fiction,Luma,15.59,18.68,2023-02-19,Active
+P0233,Zenith Haircare 0233,Beauty,Haircare,Zenith,369.97,499.43,2024-02-26,Discontinued
+P0234,Orion Business 0234,Books,Business,Orion,616.51,779.3,2023-03-17,Active
+P0235,Zenith Cookware 0235,Home & Kitchen,Cookware,Zenith,337.34,600.91,2022-04-21,Active
+P0236,Everest Men 0236,Clothing,Men,Everest,176.55,228.07,2022-08-05,Active
+P0237,Vertex Skincare 0237,Beauty,Skincare,Vertex,721.22,1352.22,2022-03-25,Active
+P0238,Pulse Men 0238,Clothing,Men,Pulse,568.82,826.45,2021-09-10,Active
+P0239,Apex Fitness 0239,Sports,Fitness,Apex,543.24,923.51,2020-05-12,Active
+P0240,Luma Kids 0240,Clothing,Kids,Luma,337.98,512.86,2023-01-19,Active
+P0241,Prime Women 0241,Clothing,Women,Prime,652.22,960.87,2021-02-04,Active
+P0242,Everest Women 0242,Clothing,Women,Everest,247.77,364.25,2019-12-10,Active
+P0243,Pulse Home Decor 0243,Home & Kitchen,Home Decor,Pulse,746.32,945.31,2023-10-19,Active
+P0244,Vertex Educational 0244,Toys,Educational,Vertex,609.84,1217.58,2022-04-22,Active
+P0245,Apex Women 0245,Clothing,Women,Apex,405.46,479.54,2022-02-13,Active
+P0246,Vertex Phones 0246,Electronics,Phones,Vertex,528.23,682.12,2022-02-11,Active
+P0247,Zenith Outdoor 0247,Toys,Outdoor,Zenith,348.32,536.68,2019-06-20,Active
+P0248,Pulse Haircare 0248,Beauty,Haircare,Pulse,446.11,929.4,2022-03-16,Active
+P0249,Luma Games 0249,Toys,Games,Luma,764.05,978.21,2022-04-05,Active
+P0250,Vertex Skincare 0250,Beauty,Skincare,Vertex,734.02,1169.37,2022-01-23,Active
+P0251,Nova Office 0251,Furniture,Office,Nova,88.95,159.41,2019-01-16,Active
+P0252,UrbanX Games 0252,Toys,Games,UrbanX,631.1,1018.55,2023-07-02,Active
+P0253,Pulse Appliances 0253,Home & Kitchen,Appliances,Pulse,643.77,900.8,2022-09-06,Active
+P0254,Zenith Business 0254,Books,Business,Zenith,413.97,525.68,2023-07-17,Discontinued
+P0255,Luma Home Decor 0255,Home & Kitchen,Home Decor,Luma,252.09,534.49,2022-01-08,Active
+P0256,Everest Educational 0256,Toys,Educational,Everest,584.44,1266.84,2020-12-22,Active
+P0257,UrbanX Laptops 0257,Electronics,Laptops,UrbanX,85.94,141.97,2023-12-30,Active
+P0258,Luma Outdoor 0258,Toys,Outdoor,Luma,105.27,202.56,2021-02-07,Active
+P0259,Prime Outdoor 0259,Sports,Outdoor,Prime,468.5,605.04,2021-09-19,Active
+P0260,Vertex Team Sports 0260,Sports,Team Sports,Vertex,151.1,324.79,2019-02-06,Discontinued
+P0261,Nova Living Room 0261,Furniture,Living Room,Nova,530.29,971.74,2019-12-23,Active
+P0262,Vertex Fragrance 0262,Beauty,Fragrance,Vertex,76.59,132.71,2019-09-06,Active
+P0263,Prime Laptops 0263,Electronics,Laptops,Prime,194.95,341.46,2021-07-16,Active
+P0264,Orion Fiction 0264,Books,Fiction,Orion,596.38,1281.19,2020-07-28,Active
+P0265,Apex Phones 0265,Electronics,Phones,Apex,531.85,683.77,2020-12-29,Active
+P0266,Nova Laptops 0266,Electronics,Laptops,Nova,531.95,669.17,2023-08-04,Active
+P0267,Apex Office 0267,Furniture,Office,Apex,366.24,772.55,2023-02-04,Active
+P0268,Vertex Fitness 0268,Sports,Fitness,Vertex,325.54,616.21,2023-10-14,Active
+P0269,Vertex Home Decor 0269,Home & Kitchen,Home Decor,Vertex,507.81,916.8,2023-11-22,Discontinued
+P0270,Zenith Bedroom 0270,Furniture,Bedroom,Zenith,101.95,190.3,2020-06-27,Active
+P0271,Zenith Men 0271,Clothing,Men,Zenith,461.31,608.4,2022-09-10,Active
+P0272,Vertex Office 0272,Furniture,Office,Vertex,361.29,748.74,2024-03-19,Active
+P0273,Prime Fragrance 0273,Beauty,Fragrance,Prime,247.24,540.64,2020-10-29,Active
+P0274,Prime Living Room 0274,Furniture,Living Room,Prime,550.94,665.47,2021-04-02,Active
+P0275,Luma Office 0275,Furniture,Office,Luma,674.87,1421.41,2022-03-09,Active
+P0276,Nova Bedroom 0276,Furniture,Bedroom,Nova,573.64,1186.2,2023-10-14,Active
+P0277,Vertex Home Decor 0277,Home & Kitchen,Home Decor,Vertex,212.95,458.72,2019-11-19,Active
+P0278,Vertex Fitness 0278,Sports,Fitness,Vertex,208.13,284.3,2021-10-19,Active
+P0279,UrbanX Bedroom 0279,Furniture,Bedroom,UrbanX,459.98,984.76,2020-06-14,Active
+P0280,Luma Accessories 0280,Electronics,Accessories,Luma,772.56,1623.14,2023-04-10,Active
+P0281,Orion Outdoor 0281,Toys,Outdoor,Orion,705.5,1222.44,2020-06-13,Active
+P0282,Vertex Haircare 0282,Beauty,Haircare,Vertex,740.74,1242.44,2021-02-19,Active
+P0283,Vertex Fragrance 0283,Beauty,Fragrance,Vertex,273.89,535.26,2021-01-28,Active
+P0284,Prime Outdoor 0284,Sports,Outdoor,Prime,356.26,738.36,2019-06-04,Active
+P0285,Apex Technology 0285,Books,Technology,Apex,557.02,677.51,2023-01-03,Active
+P0286,Orion Accessories 0286,Electronics,Accessories,Orion,160.13,224.84,2020-07-10,Active
+P0287,Pulse Kids 0287,Clothing,Kids,Pulse,608.1,1106.33,2021-12-10,Active
+P0288,Nova Phones 0288,Electronics,Phones,Nova,748.79,1019.47,2023-03-07,Active
+P0289,Pulse Outdoor 0289,Sports,Outdoor,Pulse,612.75,910.36,2023-09-20,Active
+P0290,Everest Business 0290,Books,Business,Everest,769.98,1268.71,2024-07-03,Active
+P0291,Pulse Women 0291,Clothing,Women,Pulse,288.43,473.95,2019-10-04,Active
+P0292,Nova Bedroom 0292,Furniture,Bedroom,Nova,554.01,733.43,2022-10-07,Active
+P0293,Nova Skincare 0293,Beauty,Skincare,Nova,68.52,119.26,2020-12-20,Active
+P0294,Luma Fitness 0294,Sports,Fitness,Luma,116.71,164.36,2023-08-12,Active
+P0295,Luma Office 0295,Furniture,Office,Luma,239.95,455.58,2021-05-01,Active
+P0296,Prime Skincare 0296,Beauty,Skincare,Prime,303.88,356.39,2019-01-31,Active
+P0297,Everest Educational 0297,Toys,Educational,Everest,271.5,584.03,2024-02-18,Active
+P0298,Nova Living Room 0298,Furniture,Living Room,Nova,221.89,449.11,2023-07-23,Active
+P0299,Everest Outdoor 0299,Toys,Outdoor,Everest,435.72,525.26,2020-12-24,Active
+P0300,Everest Team Sports 0300,Sports,Team Sports,Everest,478.89,791.59,2024-01-04,Active
+P0301,UrbanX Skincare 0301,Beauty,Skincare,UrbanX,590.37,729.0,2021-06-17,Active
+P0302,Luma Outdoor 0302,Sports,Outdoor,Luma,35.43,69.47,2021-06-22,Active
+P0303,Orion Business 0303,Books,Business,Orion,385.07,627.71,2020-10-18,Active
+P0304,Zenith Outdoor 0304,Toys,Outdoor,Zenith,416.96,627.5,2021-12-17,Active
+P0305,Vertex Bedroom 0305,Furniture,Bedroom,Vertex,281.41,563.47,2024-12-17,Active
+P0306,Vertex Home Decor 0306,Home & Kitchen,Home Decor,Vertex,658.44,1352.68,2019-04-25,Active
+P0307,Luma Haircare 0307,Beauty,Haircare,Luma,452.34,915.9,2022-07-23,Active
+P0308,Zenith Laptops 0308,Electronics,Laptops,Unknown,232.0,345.09,2020-01-18,Active
+P0309,UrbanX Women 0309,Clothing,Women,UrbanX,196.25,359.0,2019-09-29,Active
+P0310,Orion Laptops 0310,Electronics,Laptops,Orion,203.89,433.76,2019-05-04,Active
+P0311,UrbanX Office 0311,Furniture,Office,UrbanX,165.88,242.42,2020-08-21,Active
+P0312,Luma Cookware 0312,Home & Kitchen,Cookware,Luma,60.53,123.95,2023-05-21,Active
+P0313,Luma Fragrance 0313,Beauty,Fragrance,Luma,622.05,1107.05,2023-06-01,Active
+P0314,Everest Living Room 0314,Furniture,Living Room,Unknown,227.36,407.14,2023-10-18,Discontinued
+P0315,Luma Men 0315,Clothing,Men,Luma,700.76,1022.6,2019-11-15,Discontinued
+P0316,Orion Accessories 0316,Electronics,Accessories,Orion,191.57,396.67,2019-08-26,Active
+P0317,Vertex Cookware 0317,Home & Kitchen,Cookware,Vertex,489.53,668.57,2024-11-20,Active
+P0318,Vertex Home Decor 0318,Home & Kitchen,Home Decor,Vertex,540.85,1166.71,2024-07-11,Active
+P0319,UrbanX Home Decor 0319,Home & Kitchen,Home Decor,UrbanX,255.55,507.57,2023-03-14,Active
+P0320,Vertex Phones 0320,Electronics,Phones,Vertex,594.14,977.59,2024-01-13,Active
+P0321,Everest Kids 0321,Clothing,Kids,Everest,748.18,1180.48,2023-10-28,Active
+P0322,UrbanX Living Room 0322,Furniture,Living Room,UrbanX,162.59,277.59,2022-06-16,Active
+P0323,Prime Laptops 0323,Electronics,Laptops,Prime,354.32,471.64,2021-11-07,Active
+P0324,Pulse Phones 0324,Electronics,Phones,Pulse,648.4,1249.14,2024-11-12,Discontinued
+P0325,Apex Bedroom 0325,Furniture,Bedroom,Apex,264.9,361.48,2023-01-21,Discontinued
+P0326,Luma Bedroom 0326,Furniture,Bedroom,Luma,650.53,876.12,2024-04-16,Active
+P0327,Vertex Laptops 0327,Electronics,Laptops,Vertex,373.06,436.3,2020-03-29,Active
+P0328,Orion Cookware 0328,Home & Kitchen,Cookware,Orion,96.04,121.31,2020-05-02,Active
+P0329,Prime Home Decor 0329,Home & Kitchen,Home Decor,Prime,162.03,225.39,2022-10-11,Active
+P0330,Vertex Games 0330,Toys,Games,Vertex,629.81,1058.83,2024-09-20,Active
+P0331,Apex Outdoor 0331,Sports,Outdoor,Apex,750.4,890.42,2022-09-21,Active
+P0332,Nova Fragrance 0332,Beauty,Fragrance,Nova,310.63,516.4,2021-08-28,Active
+P0333,Prime Men 0333,Clothing,Men,Prime,544.86,1159.93,2019-02-24,Active
+P0334,Pulse Games 0334,Toys,Games,Pulse,413.93,846.76,2019-12-06,Discontinued
+P0335,Prime Living Room 0335,Furniture,Living Room,Prime,528.62,1136.74,2020-05-20,Active
+P0336,UrbanX Office 0336,Furniture,Office,UrbanX,569.85,788.08,2020-03-14,Active
+P0337,Zenith Home Decor 0337,Home & Kitchen,Home Decor,Zenith,502.27,935.03,2023-03-19,Active
+P0338,Luma Fitness 0338,Sports,Fitness,Luma,139.14,261.91,2023-02-07,Active
+P0339,Pulse Educational 0339,Toys,Educational,Pulse,108.42,195.26,2021-04-11,Active
+P0340,Nova Bedroom 0340,Furniture,Bedroom,Nova,281.41,586.46,2024-12-02,Active
+P0341,Prime Outdoor 0341,Sports,Outdoor,Prime,398.23,532.74,2021-05-12,Active
+P0342,UrbanX Educational 0342,Toys,Educational,UrbanX,287.93,623.29,2021-09-02,Active
+P0343,Luma Skincare 0343,Beauty,Skincare,Luma,399.14,811.95,2022-02-26,Active
+P0344,Nova Technology 0344,Books,Technology,Nova,509.87,646.95,2022-06-09,Active
+P0345,UrbanX Outdoor 0345,Toys,Outdoor,UrbanX,346.64,637.39,2020-02-23,Discontinued
+P0346,Orion Home Decor 0346,Home & Kitchen,Home Decor,Orion,624.89,1170.16,2020-10-19,Active
+P0347,Pulse Appliances 0347,Home & Kitchen,Appliances,Pulse,343.4,610.44,2023-02-15,Discontinued
+P0348,Vertex Technology 0348,Books,Technology,Vertex,343.09,688.93,2024-01-26,Active
+P0349,Apex Team Sports 0349,Sports,Team Sports,Apex,562.47,693.44,2021-07-16,Active
+P0350,Orion Educational 0350,Toys,Educational,Orion,160.91,302.91,2019-09-10,Discontinued
+P0351,UrbanX Men 0351,Clothing,Men,UrbanX,162.07,195.35,2024-02-08,Active
+P0352,Everest Educational 0352,Toys,Educational,Everest,168.2,197.67,2022-06-29,Active
+P0353,Vertex Technology 0353,Books,Technology,Vertex,219.86,347.19,2021-08-13,Active
+P0354,Vertex Outdoor 0354,Toys,Outdoor,Vertex,449.92,669.9,2022-07-07,Active
+P0355,Orion Bedroom 0355,Furniture,Bedroom,Orion,743.7,1378.46,2023-12-08,Active
+P0356,Prime Fitness 0356,Sports,Fitness,Prime,393.28,577.45,2019-01-03,Active
+P0357,UrbanX Men 0357,Clothing,Men,UrbanX,159.99,206.23,2021-02-27,Active
+P0358,Zenith Haircare 0358,Beauty,Haircare,Zenith,111.34,155.02,2024-08-21,Active
+P0359,Nova Games 0359,Toys,Games,Nova,186.02,368.55,2020-10-20,Active
+P0360,Apex Fiction 0360,Books,Fiction,Apex,797.64,1350.23,2024-11-03,Active
+P0361,Prime Outdoor 0361,Sports,Outdoor,Prime,384.34,606.65,2020-09-08,Active
+P0362,Zenith Men 0362,Clothing,Men,Zenith,782.44,1607.58,2021-10-20,Active
+P0363,Prime Technology 0363,Books,Technology,Prime,126.08,215.08,2019-06-03,Discontinued
+P0364,Orion Fiction 0364,Books,Fiction,Orion,265.31,560.96,2023-05-09,Active
+P0365,Nova Home Decor 0365,Home & Kitchen,Home Decor,Nova,511.09,789.65,2020-06-08,Active
+P0366,UrbanX Games 0366,Toys,Games,UrbanX,93.99,192.28,2024-02-02,Active
+P0367,Nova Skincare 0367,Beauty,Skincare,Nova,565.52,702.88,2019-10-12,Active
+P0368,Nova Technology 0368,Books,Technology,Nova,366.29,536.57,2019-09-13,Active
+P0369,Prime Home Decor 0369,Home & Kitchen,Home Decor,Prime,338.33,481.61,2021-10-24,Active
+P0370,Nova Home Decor 0370,Home & Kitchen,Home Decor,Nova,213.72,438.76,2019-07-05,Discontinued
+P0371,Apex Fiction 0371,Books,Fiction,Apex,328.98,461.37,2020-12-21,Active
+P0372,Apex Educational 0372,Toys,Educational,Apex,400.17,476.89,2023-02-18,Active
+P0373,Vertex Appliances 0373,Home & Kitchen,Appliances,Vertex,138.54,240.75,2022-01-10,Active
+P0374,Luma Fragrance 0374,Beauty,Fragrance,Luma,581.28,902.31,2022-05-10,Active
+P0375,Pulse Accessories 0375,Electronics,Accessories,Pulse,85.45,126.08,2019-07-18,Discontinued
+P0376,Apex Office 0376,Furniture,Office,Apex,374.27,721.34,2023-01-27,Active
+P0377,Vertex Fragrance 0377,Beauty,Fragrance,Vertex,91.67,123.27,2019-07-19,Active
+P0378,Pulse Home Decor 0378,Home & Kitchen,Home Decor,Pulse,255.19,408.5,2022-06-06,Active
+P0379,Nova Fitness 0379,Sports,Fitness,Nova,363.2,451.01,2023-09-28,Active
+P0380,Orion Fiction 0380,Books,Fiction,Orion,572.91,943.41,2023-05-10,Active
+P0381,Apex Accessories 0381,Electronics,Accessories,Apex,415.73,888.64,2021-02-11,Active
+P0382,Everest Business 0382,Books,Business,Everest,299.67,587.35,2019-12-06,Active
+P0383,UrbanX Cookware 0383,Home & Kitchen,Cookware,UrbanX,420.33,838.08,2023-12-25,Active
+P0384,Pulse Fragrance 0384,Beauty,Fragrance,Pulse,261.06,476.18,2020-04-17,Active
+P0385,Orion Outdoor 0385,Sports,Outdoor,Orion,362.19,488.84,2021-12-21,Active
+P0386,Vertex Outdoor 0386,Toys,Outdoor,Vertex,48.61,61.04,2020-06-03,Active
+P0387,Pulse Laptops 0387,Electronics,Laptops,Pulse,697.9,1067.87,2019-03-07,Discontinued
+P0388,Zenith Laptops 0388,Electronics,Laptops,Zenith,607.95,891.5,2021-07-01,Active
+P0389,Zenith Fragrance 0389,Beauty,Fragrance,Zenith,293.26,484.38,2022-04-20,Discontinued
+P0390,Zenith Fiction 0390,Books,Fiction,Zenith,343.15,603.87,2023-07-22,Active
+P0391,Everest Games 0391,Toys,Games,Everest,401.01,471.48,2023-05-09,Active
+P0392,Nova Outdoor 0392,Sports,Outdoor,Nova,436.77,503.5,2023-12-26,Active
+P0393,Orion Fragrance 0393,Beauty,Fragrance,Orion,605.62,896.23,2023-11-18,Active
+P0394,Orion Educational 0394,Toys,Educational,Orion,523.37,975.8,2021-05-28,Discontinued
+P0395,Apex Fragrance 0395,Beauty,Fragrance,Apex,205.63,314.68,2021-01-17,Active
+P0396,Pulse Team Sports 0396,Sports,Team Sports,Pulse,509.11,1047.48,2022-08-11,Active
+P0397,Pulse Outdoor 0397,Toys,Outdoor,Unknown,404.97,869.63,2021-11-16,Active
+P0398,Everest Outdoor 0398,Toys,Outdoor,Everest,675.73,1443.39,2020-10-08,Active
+P0399,UrbanX Cookware 0399,Home & Kitchen,Cookware,UrbanX,447.83,880.02,2019-03-11,Active
+P0400,UrbanX Men 0400,Clothing,Men,UrbanX,608.66,973.78,2021-11-07,Discontinued
+P0401,UrbanX Team Sports 0401,Sports,Team Sports,UrbanX,511.91,833.07,2021-10-24,Active
+P0402,Everest Educational 0402,Toys,Educational,Everest,624.53,1026.15,2024-08-22,Active
+P0403,Prime Women 0403,Clothing,Women,Prime,553.15,816.78,2023-11-15,Active
+P0404,Vertex Men 0404,Clothing,Men,Vertex,710.78,1516.71,2020-08-12,Active
+P0405,Everest Technology 0405,Books,Technology,Everest,380.79,504.76,2019-08-30,Active
+P0406,UrbanX Outdoor 0406,Toys,Outdoor,UrbanX,44.34,56.29,2023-09-22,Active
+P0407,Vertex Fragrance 0407,Beauty,Fragrance,Vertex,218.97,362.27,2021-12-03,Active
+P0408,Luma Fragrance 0408,Beauty,Fragrance,Luma,514.02,779.07,2019-04-03,Active
+P0409,Pulse Games 0409,Toys,Games,Pulse,504.32,1067.86,2023-07-09,Active
+P0410,Zenith Skincare 0410,Beauty,Skincare,Zenith,700.75,1536.66,2021-01-26,Active
+P0411,Nova Outdoor 0411,Sports,Outdoor,Nova,486.66,1021.42,2020-01-10,Active
+P0412,Apex Phones 0412,Electronics,Phones,Apex,164.14,305.29,2022-12-13,Active
+P0413,Pulse Fiction 0413,Books,Fiction,Pulse,296.08,414.71,2023-09-16,Discontinued
+P0414,Pulse Laptops 0414,Electronics,Laptops,Pulse,548.52,904.74,2023-08-27,Active
+P0415,Orion Kids 0415,Clothing,Kids,Orion,729.78,1022.24,2020-08-23,Discontinued
+P0416,Apex Skincare 0416,Beauty,Skincare,Apex,347.56,474.24,2022-07-20,Active
+P0417,Prime Fragrance 0417,Beauty,Fragrance,Prime,236.62,464.31,2021-10-17,Active
+P0418,Luma Fragrance 0418,Beauty,Fragrance,Luma,406.21,544.25,2024-03-18,Active
+P0419,Everest Fiction 0419,Books,Fiction,Everest,685.02,1334.23,2020-02-20,Active
+P0420,Luma Women 0420,Clothing,Women,Luma,15.71,29.06,2023-12-03,Active
+P0421,UrbanX Skincare 0421,Beauty,Skincare,UrbanX,205.42,315.46,2021-01-28,Active
+P0422,Luma Educational 0422,Toys,Educational,Luma,406.07,746.32,2022-09-14,Active
+P0423,Zenith Team Sports 0423,Sports,Team Sports,Zenith,727.2,1195.09,2022-01-04,Active
+P0424,Luma Technology 0424,Books,Technology,Luma,700.27,1012.9,2021-02-01,Active
+P0425,Nova Fitness 0425,Sports,Fitness,Nova,592.88,1109.85,2020-05-21,Active
+P0426,Vertex Laptops 0426,Electronics,Laptops,Vertex,110.89,132.48,2021-03-07,Active
+P0427,Luma Outdoor 0427,Sports,Outdoor,Luma,636.37,1366.63,2022-08-23,Active
+P0428,UrbanX Cookware 0428,Home & Kitchen,Cookware,UrbanX,682.46,1494.81,2022-09-09,Active
+P0429,Nova Kids 0429,Clothing,Kids,Nova,649.53,1131.51,2022-09-26,Active
+P0430,Orion Skincare 0430,Beauty,Skincare,Orion,33.74,61.58,2022-12-08,Active
+P0431,Prime Home Decor 0431,Home & Kitchen,Home Decor,Prime,328.08,589.8,2019-04-23,Active
+P0432,Everest Kids 0432,Clothing,Kids,Everest,613.28,1021.56,2021-05-14,Active
+P0433,Everest Bedroom 0433,Furniture,Bedroom,Everest,727.06,965.79,2020-11-20,Active
+P0434,Everest Team Sports 0434,Sports,Team Sports,Everest,162.66,354.59,2021-05-20,Active
+P0435,Orion Haircare 0435,Beauty,Haircare,Orion,585.66,1148.57,2021-04-17,Active
+P0436,UrbanX Kids 0436,Clothing,Kids,UrbanX,38.95,55.97,2020-01-23,Active
+P0437,Pulse Business 0437,Books,Business,Pulse,549.19,802.85,2024-10-14,Active
+P0438,UrbanX Kids 0438,Clothing,Kids,UrbanX,254.8,384.77,2019-01-01,Active
+P0439,Prime Haircare 0439,Beauty,Haircare,Prime,17.33,36.42,2022-07-28,Active
+P0440,Prime Kids 0440,Clothing,Kids,Prime,472.59,661.25,2021-10-07,Active
+P0441,Pulse Team Sports 0441,Sports,Team Sports,Pulse,405.23,590.45,2023-03-21,Active
+P0442,Zenith Technology 0442,Books,Technology,Zenith,337.67,496.78,2023-12-25,Active
+P0443,Apex Fragrance 0443,Beauty,Fragrance,Apex,658.4,1077.72,2022-11-22,Active
+P0444,Prime Living Room 0444,Furniture,Living Room,Prime,758.78,1227.98,2023-08-06,Discontinued
+P0445,Vertex Men 0445,Clothing,Men,Vertex,401.37,791.39,2020-08-22,Active
+P0446,Everest Fragrance 0446,Beauty,Fragrance,Everest,572.39,1242.1,2024-12-16,Active
+P0447,Pulse Appliances 0447,Home & Kitchen,Appliances,Pulse,238.7,442.66,2019-07-11,Active
+P0448,Vertex Home Decor 0448,Home & Kitchen,Home Decor,Vertex,78.03,169.84,2023-01-05,Active
+P0449,Nova Laptops 0449,Electronics,Laptops,Nova,292.13,384.54,2019-11-17,Active
+P0450,Apex Home Decor 0450,Home & Kitchen,Home Decor,Apex,249.86,375.98,2020-05-27,Active
+P0451,Nova Team Sports 0451,Sports,Team Sports,Nova,591.51,1137.18,2023-12-13,Active
+P0452,UrbanX Team Sports 0452,Sports,Team Sports,UrbanX,735.46,1230.84,2023-01-23,Active
+P0453,Everest Business 0453,Books,Business,Everest,156.03,315.29,2022-10-19,Active
+P0454,Luma Accessories 0454,Electronics,Accessories,Luma,118.97,153.38,2023-12-20,Active
+P0455,Pulse Kids 0455,Clothing,Kids,Pulse,144.14,301.48,2020-09-01,Active
+P0456,UrbanX Fragrance 0456,Beauty,Fragrance,UrbanX,386.39,633.03,2022-11-04,Active
+P0457,Zenith Accessories 0457,Electronics,Accessories,Zenith,799.93,1578.89,2020-03-18,Active
+P0458,Prime Bedroom 0458,Furniture,Bedroom,Prime,552.46,1213.14,2021-11-20,Active
+P0459,Pulse Fitness 0459,Sports,Fitness,Pulse,629.74,862.66,2021-06-05,Active
+P0460,Prime Laptops 0460,Electronics,Laptops,Prime,406.65,603.71,2022-09-16,Active
+P0461,Everest Educational 0461,Toys,Educational,Everest,143.42,188.83,2019-05-23,Active
+P0462,Orion Fiction 0462,Books,Fiction,Orion,102.47,186.86,2019-02-26,Active
+P0463,UrbanX Fiction 0463,Books,Fiction,UrbanX,485.76,759.91,2019-03-11,Active
+P0464,Pulse Kids 0464,Clothing,Kids,Pulse,704.92,1418.03,2020-08-03,Active
+P0465,Prime Laptops 0465,Electronics,Laptops,Prime,148.93,211.72,2022-06-15,Discontinued
+P0466,Apex Phones 0466,Electronics,Phones,Apex,711.63,956.76,2019-12-12,Active
+P0467,Prime Office 0467,Furniture,Office,Prime,766.85,1060.45,2024-12-10,Active
+P0468,Vertex Games 0468,Toys,Games,Vertex,641.68,1391.66,2021-06-24,Active
+P0469,Apex Technology 0469,Books,Technology,Apex,542.27,1067.89,2020-10-25,Active
+P0470,Nova Fitness 0470,Sports,Fitness,Nova,352.76,723.22,2024-05-09,Active
+P0471,Nova Accessories 0471,Electronics,Accessories,Nova,606.13,1121.83,2020-01-19,Active
+P0472,Vertex Cookware 0472,Home & Kitchen,Cookware,Vertex,280.45,415.1,2020-02-16,Active
+P0473,Orion Fragrance 0473,Beauty,Fragrance,Unknown,664.9,1135.1,2021-04-13,Active
+P0474,Everest Home Decor 0474,Home & Kitchen,Home Decor,Everest,785.63,1696.28,2019-06-05,Active
+P0475,Apex Team Sports 0475,Sports,Team Sports,Apex,222.85,331.04,2023-02-01,Active
+P0476,Prime Outdoor 0476,Sports,Outdoor,Prime,278.75,447.85,2023-08-29,Active
+P0477,Apex Fitness 0477,Sports,Fitness,Apex,96.28,144.79,2021-02-13,Active
+P0478,Luma Business 0478,Books,Business,Luma,428.69,895.01,2024-03-15,Active
+P0479,Apex Games 0479,Toys,Games,Apex,248.33,320.07,2019-01-17,Active
+P0480,UrbanX Business 0480,Books,Business,UrbanX,129.63,262.61,2022-03-09,Active
+P0481,Apex Accessories 0481,Electronics,Accessories,Apex,610.72,982.77,2023-05-18,Active
+P0482,Vertex Bedroom 0482,Furniture,Bedroom,Vertex,349.47,639.22,2021-04-04,Active
+P0483,Luma Kids 0483,Clothing,Kids,Luma,567.11,851.58,2024-09-04,Active
+P0484,Vertex Living Room 0484,Furniture,Living Room,Vertex,508.42,991.09,2021-07-31,Active
+P0485,Vertex Fiction 0485,Books,Fiction,Vertex,93.04,159.81,2024-07-03,Active
+P0486,Vertex Outdoor 0486,Toys,Outdoor,Vertex,655.03,795.95,2022-12-14,Active
+P0487,Vertex Men 0487,Clothing,Men,Vertex,288.88,539.02,2020-05-20,Active
+P0488,Pulse Technology 0488,Books,Technology,Pulse,372.2,636.33,2023-12-26,Active
+P0489,Luma Living Room 0489,Furniture,Living Room,Luma,163.83,326.76,2019-03-09,Active
+P0490,Luma Women 0490,Clothing,Women,Luma,631.6,1123.29,2020-02-19,Discontinued
+P0491,Nova Office 0491,Furniture,Office,Nova,9.61,20.01,2023-09-04,Active
+P0492,Everest Fiction 0492,Books,Fiction,Everest,776.35,921.77,2024-05-29,Active
+P0493,Vertex Outdoor 0493,Sports,Outdoor,Vertex,304.2,464.75,2021-04-29,Active
+P0494,Luma Appliances 0494,Home & Kitchen,Appliances,Luma,354.44,766.96,2022-12-10,Active
+P0495,UrbanX Skincare 0495,Beauty,Skincare,UrbanX,562.92,810.81,2023-03-08,Active
+P0496,UrbanX Outdoor 0496,Sports,Outdoor,UrbanX,569.3,1080.45,2023-06-05,Active
+P0497,UrbanX Fiction 0497,Books,Fiction,UrbanX,795.99,961.64,2024-06-06,Active
+P0498,Orion Business 0498,Books,Business,Orion,651.96,749.79,2019-07-10,Active
+P0499,Pulse Outdoor 0499,Sports,Outdoor,Pulse,159.86,251.12,2020-02-26,Active
+P0500,UrbanX Men 0500,Clothing,Men,UrbanX,60.81,78.54,2024-07-04,Active
